@@ -1,3 +1,3 @@
 # Picup onboarding
 
-[New starter onboarding](Development/NewStarterOnboarding/NewSta~~~~rter.md)
+[New starter onboarding](Development/NewStarterOnboarding/NewStarter.md)
